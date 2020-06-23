@@ -1,0 +1,18 @@
+/* your styles go here */
+.container clearfix{
+    text-align: center;
+  }
+
+  div.title {
+    font-weight: bold;
+  }
+
+  img.profile {
+    image-rendering: crisp-edges;
+    height: auto;
+    width: 180%;
+  }
+
+  #popUp:hover{
+    background-color: #4F9EBD;
+}
